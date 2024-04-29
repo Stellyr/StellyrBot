@@ -1,0 +1,2 @@
+# StellyrBot
+Terms and policy
