@@ -1,4 +1,4 @@
-s*Terms of Service for StellyrBot**
+**Terms of Service for StellyrBot**
 
 **1. Acceptance of Terms**
 By using StellyrBot ("the Bot"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these terms, do not use the Bot.
@@ -9,7 +9,7 @@ StellyrBot provides automated moderation services on Discord servers, including,
 **3. Modifications to the Service and Terms**
 We reserve the right to modify or discontinue the Bot at any time without notice. Changes to these Terms will be effective when posted.
 
-**4. Use of the Bot**
+**4. Use of the Bot**a
 You agree to use the Bot only for lawful purposes and in a way that does not infringe the rights of, restrict or inhibit anyone else's use and enjoyment of the Bot. Prohibited behavior includes harassing or causing distress or inconvenience to any person, transmitting obscene or offensive content, or disrupting the normal flow of dialogue within the Bot.
 
 **5. Privacy**
