@@ -1,4 +1,4 @@
-**GuardianBot Discord Bot Privacy Policy**
+**StellyrBot Discord Bot Privacy Policy**
 
 **1. Introduction**
 This Privacy Policy explains how GuardianBot ("we", "us", "our") collects, uses, and discloses information about users ("you") of our Discord bot. By installing and using GuardianBot, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy.
