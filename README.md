@@ -1,8 +1,4 @@
-Sure, I'll create a Terms of Service for your Discord bot named "StellyrBot."
-
----
-
-**Terms of Service for StellyrBot**
+s*Terms of Service for StellyrBot**
 
 **1. Acceptance of Terms**
 By using StellyrBot ("the Bot"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these terms, do not use the Bot.
